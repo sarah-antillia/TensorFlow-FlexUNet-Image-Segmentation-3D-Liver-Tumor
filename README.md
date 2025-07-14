@@ -5,10 +5,8 @@ This is the first experiment of Image Segmentation for 3D-Liver-Tumor based on o
 3D-Liver-Tumor-ImageMask-Dataset.zip</a>.
 which was derived by us from <br>
 <a href="https://www.kaggle.com/datasets/gauravduttakiit/3d-liver-and-liver-tumor-segmentation">
-
 <b>3D Liver and Liver Tumor Segmentation</b>
 </a>
-
 <br>
 <br>
 <b>Acutual Image Segmentation for 512x512 3D-Liver-Tumor images</b><br>
